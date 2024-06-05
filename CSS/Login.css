@@ -1,0 +1,81 @@
+body {
+  background-color: rgb(55, 58, 64);
+  font-family: Arial, Helvetica, sans-serif;
+}
+img[alt="logo"] {
+  margin-top: 0;
+  width: 450px;
+  height: 70px;
+  transform: none;
+}
+.top {
+  background-color: rgb(248, 217, 217);
+  border-radius: 10px;
+  text-align: center;
+  width: 160px;
+  height: 30px;
+  margin: 10px auto;
+  padding: 10px;
+}
+#in {
+  background-color: red;
+  color: black;
+  font-weight: bold;
+  font-size: 15px;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  display: none;
+}
+#login {
+  background-color: rgb(255, 255, 255);
+  width: 30%;
+  margin: 100px auto;
+  padding: 70px;
+  box-shadow: 5px 6px 8px rgb(113, 113, 132);
+  border-radius: 10px;
+}
+input[type="text"],
+input[type="password"] {
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+button {
+  align-self: center;
+  background-color: #04aa6d;
+  color: white;
+  padding: 14px 20px;
+  margin: 10px;
+  border: none;
+  cursor: pointer;
+  opacity: 1;
+  border-radius: 6px;
+}
+button:hover {
+  opacity: 0.7;
+}
+.clearfix::after {
+  clear: both;
+  display: table;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+.register {
+  align-self: center;
+  background-color: #ff0000;
+  color: white;
+  padding: 14px 20px;
+  margin: 10px;
+  border: none;
+  cursor: pointer;
+  opacity: 1;
+  border-radius: 6px;
+}
+
