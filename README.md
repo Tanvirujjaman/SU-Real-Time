@@ -12,10 +12,10 @@ This is an HTML project that also uses PHP and CSS. This project needs a data se
  4. Ayesha Akter Akhi
  Id: CSE2202026145
 
- 5.Eva Rahman Fatema
+ 5. Eva Rahman Fatema
  Id: CSE2202026113
 
- 6.Mitu Rani Das
+ 6. Mitu Rani Das
  Id: CSE2202026107
 
 
